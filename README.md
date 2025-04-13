@@ -67,8 +67,3 @@ yarn dev
 - Multilingual support for learning different languages
 ## License
 This project is licensed under the MIT License.
-
-## Acknowledgments
-- Thanks to all contributors who have helped improve this application
-- Special appreciation to language educators who provided input on exercise design
-Feel free to contribute to this project by submitting issues or pull requests!
