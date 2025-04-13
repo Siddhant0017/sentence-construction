@@ -23,7 +23,7 @@ const StartPage = ({ onStart, onBack, questionCount }) => {
               <Clock size={28} />
             </div>
             <h3 className="font-semibold text-gray-800 mb-2 text-lg">Time Per Question</h3>
-            <p className="text-indigo-600 font-medium text-xl">1 minute</p>
+            <p className="text-indigo-600 font-medium text-xl">30 Seconds</p>
           </div>
           <div className="text-center p-6 bg-amber-50 rounded-xl border border-amber-100 shadow-sm hover:shadow-md transition-all transform hover:-translate-y-1">
             <div className="flex justify-center mb-3 text-amber-600">
