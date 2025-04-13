@@ -41,14 +41,16 @@ The application is organized into modular components:
 git clone https://github.com/yourusername/sentence-construction.git
 cd sentence-construction
  ```
-```
+
 
 2. Install dependencies
+
 ```bash
 npm install
 # or
 yarn install
  ```
+
 
 3. Start the development server
 ```bash
@@ -64,7 +66,7 @@ yarn dev
 - Additional exercise types for comprehensive language learning
 - Multilingual support for learning different languages
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 - Thanks to all contributors who have helped improve this application
