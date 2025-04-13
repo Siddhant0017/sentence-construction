@@ -1,8 +1,3 @@
-## Trae AI
-Used 1 Reference
-
-sentenceExcercise.jsx 11-11
-
 # Sentence Construction Exercise
 A React-based interactive language learning application that helps users improve their sentence construction skills through engaging exercises.
 
